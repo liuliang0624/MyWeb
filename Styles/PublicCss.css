@@ -1,0 +1,93 @@
+﻿body 
+{
+    background:#cee6f2 url('../../Images/Background/123.jpg') no-repeat right bottom; 
+    font-size:14px; 
+    color:#333; 
+    font-family:宋体,simsun;
+    padding:10px 5px 5px 10px;
+    width: 1244px;
+    height: 706px;
+}
+
+.tb_Title
+{
+    color:#008ad3; 
+    font-size:13px; 
+    text-align:left;
+    padding:0; 
+    height:30px;
+    background:url(../../Images/Background/list_headbg1.png) repeat-x 0 0;
+}
+
+.span_Title
+{
+    background-color:#FFFFFF;  
+    height:19px; 
+    text-align:left;
+    padding:5px 10px 3px 10px;
+    display:inline-block;
+    margin-bottom:3px;
+    width: 133px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 5px;
+}
+.IsNeedSignal
+{  
+   color:Red;      
+}
+
+.tableInfo .style1
+{
+    text-align:right;
+    background-color:#FFFFFF;
+    font-weight:bold; 
+    width: 412px;
+}
+
+.tableInfo .style2
+{
+  border-top: dashed 1px #85d4ff;
+  font-size:13px;
+  border-collapse:collapse;
+  background-color:#FFFFFF;
+  width: 661px;
+}
+
+.tableInfo .style3
+{
+  border-top: dashed 1px #85d4ff;
+  font-size:13px;
+  border-collapse:collapse;
+  background-color:#FFFFFF;
+  width: 412px;
+  height: 86px;
+}
+
+.tableInfo .style4
+{
+  border-top: dashed 1px #85d4ff;
+  font-size:13px;
+  border-collapse:collapse;
+  background-color:#FFFFFF;
+  width: 661px;
+  height: 86px;
+}
+
+.btnBgImg
+{
+    border:none 0;
+    cursor:pointer;
+    background:url(../../Images/Button/pagebtnbg.gif) no-repeat 0 0; 
+    width:60px; 
+    height:23px;
+    line-height:23px;
+    font-size:13px;
+    font-weight:bold; 
+    color:#fff;
+    font-family: 宋体,simsun;
+    margin:0px;
+    padding:0px;
+}
+ 
+        
